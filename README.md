@@ -12,6 +12,8 @@ In this project we analyze NYC CitiBike bikesharing data from August, 2019, usin
 The entire Tableau story can be seen by clicking at [this link](https://public.tableau.com/app/profile/dinesh.shetty/viz/NYC_Bike_Analysis_16372636521530/NYCityBikeAnalysis?publish=yes)
 ## Results
 
+The image below shows that more than 3/4 of the users are Subscribers, who make regular use of the bikes and are a predictable source of income for the program. Bikeshare program users are also predominantly male, at approximately 5/8 to only about 1/4 female. The remaining 1/8 gender is unknown or undeclared.
+
 
 
 
