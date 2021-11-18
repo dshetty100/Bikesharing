@@ -4,10 +4,12 @@
 
 In this project we analyze NYC CitiBike bikesharing data from August, 2019, using Tableau. The purpose of the analysis is to make presentation to a potential investor who is interested in developing a bikeshare program in Des Moines, Iowa. The analysis is aimed at answering few key questions:
 
-- Who uses bikeshare programs?
+- Who are the potebtail users of bike?
+- What time of the day bikes and most used?
+- What time of the day they are least used?
+- For how long the bikes are used and by whom?
+- What days of the week the bike are mostly used?
 - What area of a city sees the most bikeshare usage?
-- What time of day are bikes used the most and the least?
-- How much are the bikes used and by whom?
 
 The entire Tableau story can be seen by clicking at [this link](https://public.tableau.com/app/profile/dinesh.shetty/viz/NYC_Bike_Analysis_16372636521530/NYCityBikeAnalysis?publish=yes)
 
