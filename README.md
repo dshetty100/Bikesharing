@@ -9,8 +9,8 @@ In this project we analyze NYC CitiBike bikesharing data from August, 2019, usin
 - What time of day are bikes used the most and the least?
 - How much are the bikes used and by whom?
 
-The entire Tableau story can be seen by clicking at [this link](https://public.tableau.com/app/profile/dinesh.shetty/viz/NYCCitiBikeAnalysischallenge_16372629887280/NYCCitiBikeAnalysis?publish=yes)
-
+The entire Tableau story can be seen by clicking at [this link]
+(https://public.tableau.com/app/profile/dinesh.shetty/viz/NYC_Bike_Analysis_16372636521530/NYCityBikeAnalysis?publish=yes)
 ## Results
 
 
