@@ -15,8 +15,17 @@ The entire Tableau story can be seen by clicking at [this link](https://public.t
 
 
 
-![Figure1](/Images/Fig1.png)
+![Figure1](/Images/customer_info.png)
 
+![Figure1](/Images/ride_starting.png)
+![Figure1](/Images/peak_hour.png)
+![Figure1](/Images/tripduration_usage.png)
+![Figure1](/Images/tripduration_gender.png)
+
+![Figure1](/Images/heatmap_1.png)
+
+![Figure1](/Images/heatmap_2.png)
+![Figure1](/Images/usertrip_gender_weekdays.png)
 
 
 ## Summary
