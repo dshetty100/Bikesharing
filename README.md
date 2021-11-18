@@ -14,33 +14,35 @@ The entire Tableau story can be seen by clicking at [this link](https://public.t
 ## Results
 
 ### 1. Customer Information
-The image below shows that more than 3/4 of the users are Subscribers, who make regular use of the bikes and are a predictable source of income for the program. Bikeshare program users are also predominantly male, at approximately 5/8 to only about 1/4 female. The remaining 1/8 gender is unknown or undeclared.
+The image below shows that about 3/4 of the bike users are Subscribers, who use bike regularly. The bike users are also predominantly male, at approximately 5/8 to only about 1/4 female. The remaining 1/8 gender is unknown or undeclared.
 
 ![Figure1](/Images/customer_info.png)
 
 ### 2. Ride Starting Location
-The map below displays the bike stations from which recorded bike trips started. The size of the circles and darkness of the green indicate the relative number of trips started at those locations. It is apparent that the bulk of the bike trips are originating in the bustling commercial heart of Lower Manhattan, known for towering office buildings, densely packed residential skyscrapers, and entertainment venues. Bike usage is lower in the less densely packed surrounding neighborhoods.
+The map below shows the bike stations from where bike trips started. The size of the circles and darkness of the blue indicate the relative number of trips started at those locations. It is observed that the bulk of the bike trips originated from Lower Manhattan, which has a large population density. Bike usage is lower in the surrounding area which is less densely packed.
 
 ![Figure1](/Images/ride_starting.png)
 
 ### 3. Peak Hour Usage in August
-The chart below displays the number of bike rides initiated during each hour of the day, totaled across the entire month of August. We can see peak usage during morning rush hour and end-of-workday commute times. What is also of note is the low-usage hours between 2 AM and 5 AM. These hours would be the best times to conduct bike repairs and redistribution of bikes from full stations to less-full stations.
+The chart below displays the number of bike rides initiated during each hour of the day for the month of August. 
+One observes that the buke usage peaks during morning rush hour and evening end-of-workday commute times. The usage is low between 2 AM and 5 AM.  This would be the best times to conduct bike repairs and redistribution of bikes from full stations to less-full stations.
 
 ![Figure1](/Images/peak_hour.png)
 
 
 ### 4. Checkout Times for Users
-This graphing of number of trips by duration show that the vast majority of trips taken on CitiBike bikes are under an hour in length. More specifically, most trips are under a half-hour in length, with a swift dropoff in number of rides over an hour in length.
+The checkout times for users graph shows that the majority of trips taken are under an hour in length. More specifically, the trips are under a half-hour in length, with a significant drop in number of rides over an hour in length.
 
 ![Figure1](/Images/tripduration_usage.png)
 
 ### 5. Checkout Time by Gender
-This breakdown of number of rides by duration, separated by gender, makes it even more apparent how many more rides are taken by male-identifying customers.
+The checkout time by gender graph shows that the bike rides are mostly taken by male customers.
 
 ![Figure1](/Images/tripduration_gender.png)
 
 ### 6. Trips by Weekday Per Hour
-A heatmap also helps show weekly usage patterns. Once again we can see the heavy bike usage during weekday commute times, and weekend usage is spread throughout the middle of the day. An interesting anomaly is the relatively low bike usage during Wednesday's end-of-day commute. It could be useful to explore reasons for this (system outage, Wednesday holidays in August, something less obvious?), but it could just be an arbitrary anomaly. Also, we can still see that low-usage time in the early morning hours, every day of the week.
+The heatmap for trips by weekday per hour shows that the bikes ar heavyly used during weeday commute times and also during weekend throughout the middle of the day.
+One also observes that the usage is low in the early morning hours, every day of the week.
 
 ![Figure1](/Images/heatmap_1.png)
 
@@ -48,9 +50,7 @@ A heatmap also helps show weekly usage patterns. Once again we can see the heavy
 ![Figure1](/Images/heatmap_2.png)
 
 ### 8. User Trips by Gender by Weekday
-Lastly, this heatmap reinforces how much of the userbase is dominated by male-identifying, subscribing users. Why this is the case is unclear and warrants additional study.
-
-There are one or two additional charts available in the Tableau analysis, but they tell pretty much the same story that has already been displayed above.
+Lastly, the heatmap below reinforces how much of the userbase is dominated by male-identifying, subscribing users. 
 
 ![Figure1](/Images/usertrip_gender_weekdays.png)
 
