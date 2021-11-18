@@ -2,6 +2,7 @@
 
 ## Overview of Analysis
 
+### 1. Customer Information
 In this project we analyze NYC CitiBike bikesharing data from August, 2019, using Tableau. The purpose of the analysis is to make presentation to a potential investor who is interested in developing a bikeshare program in Des Moines, Iowa. The analysis is aimed at answering few key questions:
 
 - Who uses bikeshare programs?
