@@ -27,7 +27,7 @@ The map below shows the bike stations from where bike trips started. The size of
 
 ### 3. Peak Hour Usage in August
 The chart below displays the number of bike rides initiated during each hour of the day for the month of August. 
-One observes that the buke usage peaks during morning rush hour and evening end-of-workday commute times. The usage is low between 2 AM and 5 AM.  This would be the best times to conduct bike repairs and redistribution of bikes from full stations to less-full stations.
+One observes that the bike usage peaks during morning rush hour and evening end-of-workday commute times. The usage is low between 2 AM and 5 AM.  This would be the best times to conduct bike repairs and redistribution of bikes from full stations to less-full stations.
 
 ![Figure1](/Images/peak_hour.png)
 
@@ -61,9 +61,11 @@ Lastly, the heatmap below reinforces how much of the userbase is dominated by ma
 
 
 ## Summary
-In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
 
-If I were to pursue additional lines of inquiry for analysis and visualization, given the data provided, I would explore:
+In summary, bikesharing program can be a success in a densely populated metropolitan areas. The analysis shows that male subscribers tends to be the dominant users of bike sharing program. The analysis also indicate that the bikes are heavily used during weeday commute times and also during weekend throughout the middle of the day. The low number of female rider is particularly striking and attracting more female rider could improve the the income from the ride sharing program.
 
-trip starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours;
-average trip duration, by birth year, by gender, to explore if there was any difference in male or female or un-gendered riders as they age.
+Two additional visualizations that one could perform with the given dataset.
+- Average trip duration by age to explore what age group in each gender category prefers bike sharing.
+- A heatmap to determine what proportion of the bikes get heavy usage and which will need to be repared often.
+
+
