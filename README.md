@@ -43,12 +43,15 @@ The checkout time by gender graph shows that the bike rides are mostly taken by 
 ![Figure1](/Images/tripduration_gender.png)
 
 ### 6. Trips by Weekday Per Hour
-The heatmap for trips by weekday per hour shows that the bikes ar heavyly used during weeday commute times and also during weekend throughout the middle of the day.
+The heatmap for trips by weekday per hour shows that the bikes are heavily used during weeday commute times and also during weekend throughout the middle of the day.
 One also observes that the usage is low in the early morning hours, every day of the week.
 
 ![Figure1](/Images/heatmap_1.png)
 
 ### 7. Trips by Gender (Weekday Per Hour)
+The heatmap for trips by gender once again reinforce that the bikes ar heavily used during weeday commute times and also during weekend throughout the middle of the day.
+While the trend is the same for both male and female riders, the male rider seems to dominate the female rider in the bike sharing program.
+
 ![Figure1](/Images/heatmap_2.png)
 
 ### 8. User Trips by Gender by Weekday
